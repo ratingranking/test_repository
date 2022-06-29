@@ -40,7 +40,7 @@ Applications & Examples:
       Finance:
         * Examples from investment and portfolio selection.
       Domain Market:
-        * An example is based on our previous work [14]_ where we have ranked domain names based on various factors. 
+        * An example from our previous work [14]_ where we have ranked domain names based on various factors. 
       Movies:
         * Application on real-world dataset from Movie Lens [15]_
  

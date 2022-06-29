@@ -1,6 +1,6 @@
 Rating/Ranking Soccer Teams Example
 ===================================
-This example concerns the 20 first matches that took place during the 2018 - 2019 sport seasons of English Premier League.
+This example concerns the first 20 matches that took place during the 2018 - 2019 sport season of English Premier League.
 The following rating methods are used to rate and rank teams:
 
 
